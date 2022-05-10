@@ -1,0 +1,4 @@
+﻿id,name,username,email ,username,password,rank
+S01,Lilibeth,Banaag,lb@gmail.com,lbanaag,pass1,student
+S02,Nicole,Baes,nb@gmail.com,nbaes,pass2,lecturer
+S03,Giselle,Manalo,gm@gmail.com,gmanalo,pass3,student
